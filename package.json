@@ -1,0 +1,13 @@
+{
+  "name": "embed-third-party-cookie",
+  "version": "1.0.0",
+  "description": "Project to illustrate how to setup cross-domain embedding with a third party cookie",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0"
+  }
+}

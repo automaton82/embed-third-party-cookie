@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(45, 145, 45);
+    color: rgb(231, 233, 235);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+iframe {
+    border: 0;
+}
